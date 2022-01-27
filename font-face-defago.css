@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Defago Noto Sans Bold';
+    src: url('https://cdn.discordapp.com/attachments/936148498057941042/936148625334104094/DefagoNotoSans.woff2') format('woff2'),
+        url('https://cdn.discordapp.com/attachments/936148498057941042/936148625497673728/DefagoNotoSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Defago Noto Sans';
+    src: url('https://cdn.discordapp.com/attachments/936148498057941042/936148625334104094/DefagoNotoSans.woff2') format('woff2'),
+        url('https://cdn.discordapp.com/attachments/936148498057941042/936148625141145640/DefagoNotoSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
